@@ -69,10 +69,10 @@ Create `.env`:
 ```env
 PORT=3000
 MONGO_URI=mongodb://localhost:27017/spotify
-JWT_SECRET=your_jwt_secret
-IMAGEKIT_PUBLIC_KEY=your_public_key
-IMAGEKIT_PRIVATE_KEY=your_private_key
-IMAGEKIT_URL_ENDPOINT=your_url_endpoint
+JWT_SECRET=
+IMAGEKIT_PUBLIC_KEY=
+IMAGEKIT_PRIVATE_KEY=
+IMAGEKIT_URL_ENDPOINT=
 ```
 
 ### Run
