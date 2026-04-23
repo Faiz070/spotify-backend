@@ -120,10 +120,10 @@ Uses Jest + Supertest for API testing.
 ## 🤝 Contributing
 
 1. Fork & clone
-2. Create branch: `git checkout -b feature/xyz`
-3. Commit: `git commit -m "Add XYZ"`
+2. Create branch:
+3. Commit: 
 4. Push & PR
 
 ## 📄 License
 
-ISC License - see [LICENSE](LICENSE) (add if needed)
+ISC License - see [LICENSE](LICENSE) (Faiz Ansari)
